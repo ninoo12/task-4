@@ -1,0 +1,181 @@
+.box1 {
+    height: 200px;
+    width: 1440px;
+    background-color: #D9D9D9;
+}
+.logoimg {
+    width: 178px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 130px;
+}
+ul {
+    list-style: none;
+}
+.ull {
+    display: flex;
+    justify-content: space-around;
+    max-width: 600px;
+    margin-top:-66px;
+    margin-left: 595px;
+}
+li {
+    display: inline;
+}
+.red {
+    color: #A62B28;
+    size: 24px;
+}
+.black {
+    color: #717276;
+    size: 24px;
+}
+.image1 {
+    display: inline-block;
+    margin-left: 130px;
+    margin-top: 160px;
+    
+}
+.frame-1 {
+    margin-top: 160px;
+    margin-left: 130px;
+    display: inline;
+}
+.paragraph-1 {
+    display: inline;
+    margin-left: 40px;
+    margin-top: 24px;
+    color: #717276;
+}
+.inline {
+    display: inline;
+}
+.img2 {
+margin-left: 130px;
+margin-top: 40px;
+}
+.img4 {
+margin-left: 20px;
+}
+.img5 {
+margin-left: 20px;
+}
+.tamta {
+    color: #717276;
+    size: 24px;
+    margin-top: 50px;
+    }
+.p1 {
+    color: black;
+    size: 24px;
+    margin-top: 8px;
+}
+.p2 {
+    color: black;
+    size: 24px;
+    margin-top: 8px;
+}
+.shashvi {
+    margin-left: 134.07px;
+    display: inline-block;
+}
+.poet {
+    color: #717276;
+    size: 24px;
+    margin-top: 50px;
+
+}
+.p3 {
+    color: black;
+    size: 24px;
+    margin-top: 8px;
+}
+.p4 {
+    color: black;
+    size: 24px;
+    margin-top: 8px;
+}
+.eka {
+    margin-left: 192px;
+    display: inline-block;
+}
+.thirdbook {
+    display: inline-block;
+margin-left: 90px;
+}
+.p5 {
+    color: black;
+    size: 24px;
+    margin-top: 8px;
+}
+.p6 {
+    color: black;
+    size: 24px;
+    margin-top: 8px;
+}
+.zaira {
+    color: #717276;
+    size: 24px;
+    margin-top: 50px;
+}
+.img6 {
+    margin-left: 130px;
+    margin-top: 160px;
+}
+.paragraph2 {
+    color: #717276;
+    size: 32px;
+    display: inline;
+    margin-left: 40px;
+    margin-top: 24px;
+}
+.img7 {
+margin-left: 130.5px;
+margin-top: 40px;
+}
+.img8 {
+margin-left: 20px;
+}
+.img9 {
+    margin-left: 20px;
+}
+.img10 {
+    margin-left: 20px;
+}
+.box2 {
+    height: 200px;
+    width: 1440px;
+    background-color: #D9D9D9;
+    margin-top: 160px;
+}
+.ull2 li {
+    display: block;
+}
+.contact {
+color: black;
+margin-left: 130px;
+margin-top: 71px;
+}
+.shops {
+    color: black;
+    margin-left: 130px;
+    margin-top: 8px;
+}
+.question {
+    color: black;
+    margin-left: 133px;
+    margin-top: 8px;
+}
+.socialmedia {
+    margin-left: 1127px;
+    margin-top: 71px;
+}
+.youtube {
+    margin-left: 21px;
+}
+.link {
+    margin-left: 21px;
+}
+.insta {
+    margin-left: 21px;
+}
